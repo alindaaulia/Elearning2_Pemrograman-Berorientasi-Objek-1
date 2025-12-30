@@ -1,0 +1,5 @@
+Alinda,90
+Nna,80
+Cinta,75
+Rangga,70
+Raifangga,85
